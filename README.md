@@ -76,16 +76,6 @@ This project demonstrates an end-to-end data cleaning and preprocessing workflow
 - Data Validation
 - Exploratory Data Preparation
 
----
-
-## 📁 Repository Contents
-
-- Customer_Data_Cleaning_Project_Portfolio_Final.ipynb
-- customer_dataset.csv
-- cleaned_customer_dataset.csv
-
----
-
 ## 🚀 Outcome
 
 The final dataset is clean, consistent, and ready for Exploratory Data Analysis (EDA) and Machine Learning workflows.
